@@ -67,21 +67,24 @@
   * [框模型](css-she-ji-web/untitled/untitled-7.md)
   * [调试 CSS](css-she-ji-web/untitled/untitled-6.md)
   * [基本的CSS理解](css-she-ji-web/untitled/untitled-5.md)
-* [样式化文本](css-she-ji-web/untitled-4/README.md)
-  * [搜索 基本文本和字体样式](css-she-ji-web/untitled-4/untitled-2.md)
-  * [样式列表](css-she-ji-web/untitled-4/untitled-1.md)
-  * [样式化链接](css-she-ji-web/untitled-4/untitled.md)
-  * [Web 字体](css-she-ji-web/untitled-4/web-zi-ti.md)
-  * [作业：排版社区大学首页](css-she-ji-web/untitled-4/untitled-3.md)
-* [样式化区块](css-she-ji-web/untitled-2/README.md)
-  * [盒模型概要](css-she-ji-web/untitled-2/untitled-3.md)
-  * [使用CSS改变背景样式](css-she-ji-web/untitled-2/untitled-2.md)
-  * [使用CSS的样式边框](css-she-ji-web/untitled-2/untitled.md)
-  * [样式化表格](css-she-ji-web/untitled-2/yang-shi-hua-biao-ge.md)
-  * [高级区块效果](css-she-ji-web/untitled-2/untitled-4.md)
-  * [作业：构建漂亮的信纸](css-she-ji-web/untitled-2/chuang-jian-jing-mei-de-xin-zhi.md)
-  * [作业：酷炫外观区块](css-she-ji-web/untitled-2/untitled-6.md)
-  * [Untitled](css-she-ji-web/untitled-2/untitled-5.md)
-  * [Untitled](css-she-ji-web/untitled-2/untitled-1.md)
-* [Untitled](css-she-ji-web/untitled-19.md)
+
+## 样式化文本
+
+* [样式化文本](yang-shi-hua-wen-ben/untitled-4/README.md)
+  * [搜索 基本文本和字体样式](yang-shi-hua-wen-ben/untitled-4/untitled-2.md)
+  * [样式列表](yang-shi-hua-wen-ben/untitled-4/untitled-1.md)
+  * [样式化链接](yang-shi-hua-wen-ben/untitled-4/untitled.md)
+  * [Web 字体](yang-shi-hua-wen-ben/untitled-4/web-zi-ti.md)
+  * [作业：排版社区大学首页](yang-shi-hua-wen-ben/untitled-4/untitled-3.md)
+
+## 样式化区块
+
+* [样式化区块](yang-shi-hua-qu-kuai/untitled-2-1/README.md)
+  * [盒模型概要](yang-shi-hua-qu-kuai/untitled-2-1/untitled-3.md)
+  * [使用CSS改变背景样式](yang-shi-hua-qu-kuai/untitled-2-1/untitled-2.md)
+  * [使用CSS的样式边框](yang-shi-hua-qu-kuai/untitled-2-1/untitled.md)
+  * [样式化表格](yang-shi-hua-qu-kuai/untitled-2-1/yang-shi-hua-biao-ge.md)
+  * [高级区块效果](yang-shi-hua-qu-kuai/untitled-2-1/untitled-4.md)
+  * [作业：构建漂亮的信纸](yang-shi-hua-qu-kuai/untitled-2-1/chuang-jian-jing-mei-de-xin-zhi.md)
+  * [作业：酷炫外观区块](yang-shi-hua-qu-kuai/untitled-2-1/untitled-6.md)
 
