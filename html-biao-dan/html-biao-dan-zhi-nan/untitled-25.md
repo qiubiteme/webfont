@@ -206,7 +206,7 @@ if __name__ == "__main__":
 
 以上代码中引用的两个模板如下：
 
-* [form.html](https://github.com/mdn/learning-area/blob/master/html/forms/sending-form-data/templates/form.html): 与我们在[The POST method](https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data#The_POST_method)小节中看到的相同的表单，但是将`action`设置为`{{ url_for('hello') }}`。\(这是一个[Jinja2](http://jinja.pocoo.org/docs/2.9/)模板，它基本上是HTML，但是可以包含对运行包含在花括号中的web服务器的Python代码的调用。`url_for('hello')`基本上是在“提交表单时重定向到`/hello`”。
+* [form.html](https://github.com/mdn/learning-area/blob/master/html/forms/sending-form-data/templates/form.html): 与我们在[The POST method](https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data#The_POST_method)小节中看到的相同的表单，但是将`action`设置为\```{{ url_for('hello') }}```。\(这是一个[Jinja2](http://jinja.pocoo.org/docs/2.9/)模板，它基本上是HTML，但是可以包含对运行包含在花括号中的web服务器的Python代码的调用。`url_for('hello')`基本上是在“提交表单时重定向到`/hello`”。
 * [greeting.html](https://github.com/mdn/learning-area/blob/master/html/forms/sending-form-data/templates/greeting.html): 这个模板只包含一行，当它被呈现时，它会呈现给它的两个数据块。 这是通过前面所见的`hello()`函数完成的，该函数在`/hello`URL导航时运行。
 
 **注意：**同样，如果您只是尝试将其直接加载到浏览器中，那么这段代码将无法工作。Python的工作方式与PHP略有不同——要在本地运行此代码，您需要[安装Python/pip](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/development_environment#Installing_Python_3)，然后使用`pip3 install flask`安装Flask。此时，您应该能够使用`python3 python-example.py`来运行这个示例，然后在浏览器中导航到`localhost:5000`。
