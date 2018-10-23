@@ -27,22 +27,6 @@
   * [HTML 调试](html/html-gou-jian-web/html-tiao-shi.md)
   * [标记字母](html/html-gou-jian-web/untitled-14.md)
   * [构建出有内容的网页](html/html-gou-jian-web/untitled-13.md)
-  * [HTML 表格概述](html/html-gou-jian-web/untitled-16/README.md)
-    * [HTML表格基础](html/html-gou-jian-web/untitled-16/untitled-18.md)
-    * [HTML表格高级特性和可访问性](html/html-gou-jian-web/untitled-16/untitled.md)
-    * [作业：构建行星数据](html/html-gou-jian-web/untitled-16/zuo-ye-gou-jian-hang-xing-shu-ju.md)
-  * [HTML表单指南](html/html-gou-jian-web/html-biao-dan-zhi-nan/README.md)
-    * [创建我的第一个表单](html/html-gou-jian-web/html-biao-dan-zhi-nan/untitled-28.md)
-    * [如何构造HTML表单](html/html-gou-jian-web/html-biao-dan-zhi-nan/untitled-27.md)
-    * [原生表单部件](html/html-gou-jian-web/html-biao-dan-zhi-nan/untitled-26.md)
-    * [发送表单数据](html/html-gou-jian-web/html-biao-dan-zhi-nan/untitled-25.md)
-    * [表单数据校验](html/html-gou-jian-web/html-biao-dan-zhi-nan/untitled-24.md)
-    * [如何构建表单小工具](html/html-gou-jian-web/html-biao-dan-zhi-nan/untitled-23.md)
-    * [使用JavaScript发送表单](html/html-gou-jian-web/html-biao-dan-zhi-nan/untitled-22.md)
-    * [旧式浏览器中的HTML 表单](html/html-gou-jian-web/html-biao-dan-zhi-nan/jiu-shi-lan-qi-zhong-de-html-biao-dan.md)
-    * [样式化 HTML 表单](html/html-gou-jian-web/html-biao-dan-zhi-nan/untitled-37.md)
-    * [高级设计 HTML 表单](html/html-gou-jian-web/html-biao-dan-zhi-nan/untitled-36.md)
-    * [表单组件兼容性列表](html/html-gou-jian-web/html-biao-dan-zhi-nan/untitled-35.md)
 
 ## 多媒体与嵌入
 
@@ -53,6 +37,28 @@
   * [在网页中添加矢量图形](duo-mei-ti-yu-qian-ru/untitled-12/untitled-8.md)
   * [响应式图片](duo-mei-ti-yu-qian-ru/untitled-12/xiang-ying-shi-tu-pian.md)
   * [Mozilla醒目页面](duo-mei-ti-yu-qian-ru/untitled-12/untitled-17.md)
+
+## HTML 表格
+
+* [HTML 表格概述](html-biao-ge/untitled-16/README.md)
+  * [HTML表格基础](html-biao-ge/untitled-16/untitled-18.md)
+  * [HTML表格高级特性和可访问性](html-biao-ge/untitled-16/untitled.md)
+  * [作业：构建行星数据](html-biao-ge/untitled-16/zuo-ye-gou-jian-hang-xing-shu-ju.md)
+
+## HTML 表单
+
+* [HTML表单指南](html-biao-dan/html-biao-dan-zhi-nan/README.md)
+  * [创建我的第一个表单](html-biao-dan/html-biao-dan-zhi-nan/untitled-28.md)
+  * [如何构造HTML表单](html-biao-dan/html-biao-dan-zhi-nan/untitled-27.md)
+  * [原生表单部件](html-biao-dan/html-biao-dan-zhi-nan/untitled-26.md)
+  * [发送表单数据](html-biao-dan/html-biao-dan-zhi-nan/untitled-25.md)
+  * [表单数据校验](html-biao-dan/html-biao-dan-zhi-nan/untitled-24.md)
+  * [如何构建表单小工具](html-biao-dan/html-biao-dan-zhi-nan/untitled-23.md)
+  * [使用JavaScript发送表单](html-biao-dan/html-biao-dan-zhi-nan/untitled-22.md)
+  * [旧式浏览器中的HTML 表单](html-biao-dan/html-biao-dan-zhi-nan/jiu-shi-lan-qi-zhong-de-html-biao-dan.md)
+  * [样式化 HTML 表单](html-biao-dan/html-biao-dan-zhi-nan/untitled-37.md)
+  * [高级设计 HTML 表单](html-biao-dan/html-biao-dan-zhi-nan/untitled-36.md)
+  * [表单组件兼容性列表](html-biao-dan/html-biao-dan-zhi-nan/untitled-35.md)
 
 ## CSS设计Web
 
@@ -90,8 +96,4 @@
   * [高级区块效果](yang-shi-hua-qu-kuai/untitled-2-1/untitled-4.md)
   * [作业：构建漂亮的信纸](yang-shi-hua-qu-kuai/untitled-2-1/chuang-jian-jing-mei-de-xin-zhi.md)
   * [作业：酷炫外观区块](yang-shi-hua-qu-kuai/untitled-2-1/untitled-6.md)
-
-## HTML 表格
-
-## HTML 表单
 
