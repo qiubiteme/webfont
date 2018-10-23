@@ -27,13 +27,6 @@
   * [HTML 调试](html/html-gou-jian-web/html-tiao-shi.md)
   * [标记字母](html/html-gou-jian-web/untitled-14.md)
   * [构建出有内容的网页](html/html-gou-jian-web/untitled-13.md)
-  * [多媒体与嵌入概述](html/html-gou-jian-web/untitled-12/README.md)
-    * [HTML中的图片](html/html-gou-jian-web/untitled-12/untitled-11.md)
-    * [视频和音频内容](html/html-gou-jian-web/untitled-12/untitled-10.md)
-    * [从对象到iframe - 其他嵌入技术](html/html-gou-jian-web/untitled-12/untitled-9.md)
-    * [在网页中添加矢量图形](html/html-gou-jian-web/untitled-12/untitled-8.md)
-    * [响应式图片](html/html-gou-jian-web/untitled-12/xiang-ying-shi-tu-pian.md)
-    * [Mozilla醒目页面](html/html-gou-jian-web/untitled-12/untitled-17.md)
   * [HTML 表格概述](html/html-gou-jian-web/untitled-16/README.md)
     * [HTML表格基础](html/html-gou-jian-web/untitled-16/untitled-18.md)
     * [HTML表格高级特性和可访问性](html/html-gou-jian-web/untitled-16/untitled.md)
@@ -50,6 +43,16 @@
     * [样式化 HTML 表单](html/html-gou-jian-web/html-biao-dan-zhi-nan/untitled-37.md)
     * [高级设计 HTML 表单](html/html-gou-jian-web/html-biao-dan-zhi-nan/untitled-36.md)
     * [表单组件兼容性列表](html/html-gou-jian-web/html-biao-dan-zhi-nan/untitled-35.md)
+
+## 多媒体与嵌入
+
+* [多媒体与嵌入概述](duo-mei-ti-yu-qian-ru/untitled-12/README.md)
+  * [HTML中的图片](duo-mei-ti-yu-qian-ru/untitled-12/untitled-11.md)
+  * [视频和音频内容](duo-mei-ti-yu-qian-ru/untitled-12/untitled-10.md)
+  * [从对象到iframe - 其他嵌入技术](duo-mei-ti-yu-qian-ru/untitled-12/untitled-9.md)
+  * [在网页中添加矢量图形](duo-mei-ti-yu-qian-ru/untitled-12/untitled-8.md)
+  * [响应式图片](duo-mei-ti-yu-qian-ru/untitled-12/xiang-ying-shi-tu-pian.md)
+  * [Mozilla醒目页面](duo-mei-ti-yu-qian-ru/untitled-12/untitled-17.md)
 
 ## CSS设计Web
 
