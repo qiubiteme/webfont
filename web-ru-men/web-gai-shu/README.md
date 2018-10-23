@@ -1,6 +1,6 @@
-# Web概述
+# Web入门概述
 
-**Web 入门**是一门介绍 Web 开发实用性的简洁系列课程。在这里你将学会如何设置构建简单网页所需的工具并发布你自己的简易代码。
+\*\*\*\*$$a = b$$ **Web 入门**是一门介绍 Web 开发实用性的简洁系列课程。在这里你将学会如何设置构建简单网页所需的工具并发布你自己的简易代码。
 
 ### 建立你的第一个网站[Section](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web#%E5%BB%BA%E7%AB%8B%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%BD%91%E7%AB%99) <a id="&#x5EFA;&#x7ACB;&#x4F60;&#x7684;&#x7B2C;&#x4E00;&#x4E2A;&#x7F51;&#x7AD9;"></a>
 
